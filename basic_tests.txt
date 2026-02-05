@@ -1,0 +1,33 @@
+Name: Simple Line
+Cost: 4
+GRID_START
+S...G
+GRID_END
+
+Name: Basic Wall
+Cost: 8
+GRID_START
+.....
+.....
+###..
+.....
+S...G
+GRID_END
+
+Name: The Trap
+Cost: 8
+GRID_START
+.....
+.###.
+.S#G.
+.###.
+.....
+GRID_END
+
+Name: Impossible
+Cost: -1
+GRID_START
+S#...
+.#...
+.#..G
+GRID_END
