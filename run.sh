@@ -1,8 +1,8 @@
-#!/bin/bash
+#!/bin/bash -e
 
 # Compile
 echo "Compiling..."
-g++ -std=c++17 astar_dojo.cpp -o dojo
+g++ -g -std=c++17 astar_dojo.cpp -o dojo
 
 # Run
 if [ $? -eq 0 ]; then
