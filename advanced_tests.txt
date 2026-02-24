@@ -1,5 +1,5 @@
 Name: The Spiral
-Cost: 26
+Cost: 8
 GRID_START
 #######
 #.....#
@@ -11,7 +11,7 @@ GRID_START
 GRID_END
 
 Name: Zig Zag Corridor
-Cost: 22
+Cost: 34
 GRID_START
 S..........
 ##########.
@@ -36,7 +36,7 @@ S.........
 GRID_END
 
 Name: The Forest
-Cost: 14
+Cost: 13
 GRID_START
 S.#...#...
 ..#.#...#.

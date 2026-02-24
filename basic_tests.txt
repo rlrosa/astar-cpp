@@ -5,13 +5,13 @@ S...G
 GRID_END
 
 Name: Basic Wall
-Cost: 8
+Cost: 10
 GRID_START
+S.#.G
+..#..
+..#..
 .....
 .....
-###..
-.....
-S...G
 GRID_END
 
 Name: The Trap
@@ -19,9 +19,9 @@ Cost: 8
 GRID_START
 .....
 .###.
-.S#G.
+..S#.
 .###.
-.....
+....G
 GRID_END
 
 Name: Impossible
